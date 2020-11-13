@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "enableStartTime": true,
+        "clientID": "[PASTE CLIENT ID HERE]",
+        "largeImageKey": "0",
+        "smallImageKey": "0",
+        "smallImageText": "Text For Small Image",
+        "largeImageText": "Text For The Large Image",
+        "state": "the game state",
+        "details": "details on the game",
+        "experimentalRPCEventInjection": true
+    }
+}
